@@ -4,4 +4,9 @@
   body {
     background-image: url("https://img.freepik.com/premium-vector/line-background-abstract-background-beautiful-background-bg-pattern-background-design-slide-bg_634868-9.jpg");
     background-color: #cccccc;
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
    }
